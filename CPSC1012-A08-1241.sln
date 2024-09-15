@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson01-HelloWorld", "Lesson01-HelloWorld\Lesson01-HelloWorld.csproj", "{468DD7FD-F459-4186-9E7F-680B3A04426F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02-Data-Types-and-Operators", "Lesson02-Data-Types-and-Operators\Lesson02-Data-Types-and-Operators.csproj", "{935F0DC3-611D-4CCE-895A-4AD7B82E9A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson03-Input-and-Data-Type-Conversion", "Lesson03-Input-and-Data-Type-Conversion\Lesson03-Input-and-Data-Type-Conversion.csproj", "{CC34A3D9-3B63-4BD5-B114-D460E9FF110C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468DD7FD-F459-4186-9E7F-680B3A04426F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468DD7FD-F459-4186-9E7F-680B3A04426F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468DD7FD-F459-4186-9E7F-680B3A04426F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468DD7FD-F459-4186-9E7F-680B3A04426F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935F0DC3-611D-4CCE-895A-4AD7B82E9A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935F0DC3-611D-4CCE-895A-4AD7B82E9A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935F0DC3-611D-4CCE-895A-4AD7B82E9A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935F0DC3-611D-4CCE-895A-4AD7B82E9A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC34A3D9-3B63-4BD5-B114-D460E9FF110C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC34A3D9-3B63-4BD5-B114-D460E9FF110C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC34A3D9-3B63-4BD5-B114-D460E9FF110C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC34A3D9-3B63-4BD5-B114-D460E9FF110C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/bin/Debug/net8.0/Lesson03-Input-and-Data-Type-Conversion
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/bin/Debug/net8.0/Lesson03-Input-and-Data-Type-Conversion.deps.json
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/bin/Debug/net8.0/Lesson03-Input-and-Data-Type-Conversion.runtimeconfig.json
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/bin/Debug/net8.0/Lesson03-Input-and-Data-Type-Conversion.dll
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/bin/Debug/net8.0/Lesson03-Input-and-Data-Type-Conversion.pdb
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/obj/Debug/net8.0/Lesson03-Input-and-Data-Type-Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/obj/Debug/net8.0/Lesson03-Input-and-Data-Type-Conversion.AssemblyInfoInputs.cache
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/obj/Debug/net8.0/Lesson03-Input-and-Data-Type-Conversion.AssemblyInfo.cs
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/obj/Debug/net8.0/Lesson03-Input-and-Data-Type-Conversion.csproj.CoreCompileInputs.cache
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/obj/Debug/net8.0/Lesson03-Input-and-Data-Type-Conversion.dll
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/obj/Debug/net8.0/refint/Lesson03-Input-and-Data-Type-Conversion.dll
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/obj/Debug/net8.0/Lesson03-Input-and-Data-Type-Conversion.pdb
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/obj/Debug/net8.0/Lesson03-Input-and-Data-Type-Conversion.genruntimeconfig.cache
+/Users/cnobert/Documents/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/obj/Debug/net8.0/ref/Lesson03-Input-and-Data-Type-Conversion.dll

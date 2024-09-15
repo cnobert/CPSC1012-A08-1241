@@ -1,0 +1,14 @@
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/bin/Debug/net8.0/Lesson02
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/bin/Debug/net8.0/Lesson02.deps.json
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/bin/Debug/net8.0/Lesson02.runtimeconfig.json
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/bin/Debug/net8.0/Lesson02.dll
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/bin/Debug/net8.0/Lesson02.pdb
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/obj/Debug/net8.0/Lesson02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/obj/Debug/net8.0/Lesson02.AssemblyInfoInputs.cache
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/obj/Debug/net8.0/Lesson02.AssemblyInfo.cs
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/obj/Debug/net8.0/Lesson02.csproj.CoreCompileInputs.cache
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/obj/Debug/net8.0/Lesson02.dll
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/obj/Debug/net8.0/refint/Lesson02.dll
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/obj/Debug/net8.0/Lesson02.pdb
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/obj/Debug/net8.0/Lesson02.genruntimeconfig.cache
+/Users/cnobert/Library/CloudStorage/OneDrive-NAIT/2024-Sep-CPSC1012-A07/code/Lesson01/Lesson02/obj/Debug/net8.0/ref/Lesson02.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson03-Input-and-Data-Type-Conversion/1.0.0": {
+        "runtime": {
+          "Lesson03-Input-and-Data-Type-Conversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson03-Input-and-Data-Type-Conversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
