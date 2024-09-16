@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson01-HelloWorld\\Lesson01-HelloWorld.csproj": {}
+    "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson04-Exercise-Solutions-Arithmetic-Sequences\\Lesson04-Exercise-Solutions-Arithmetic-Sequences.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson01-HelloWorld\\Lesson01-HelloWorld.csproj": {
+    "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson04-Exercise-Solutions-Arithmetic-Sequences\\Lesson04-Exercise-Solutions-Arithmetic-Sequences.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson01-HelloWorld\\Lesson01-HelloWorld.csproj",
-        "projectName": "Lesson01-HelloWorld",
-        "projectPath": "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson01-HelloWorld\\Lesson01-HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson04-Exercise-Solutions-Arithmetic-Sequences\\Lesson04-Exercise-Solutions-Arithmetic-Sequences.csproj",
+        "projectName": "Lesson04-Exercise-Solutions-Arithmetic-Sequences",
+        "projectPath": "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson04-Exercise-Solutions-Arithmetic-Sequences\\Lesson04-Exercise-Solutions-Arithmetic-Sequences.csproj",
         "packagesPath": "C:\\Users\\cnobert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson01-HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson04-Exercise-Solutions-Arithmetic-Sequences\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

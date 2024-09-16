@@ -1,0 +1,15 @@
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\bin\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.exe
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\bin\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.deps.json
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\bin\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.runtimeconfig.json
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\bin\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.dll
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\bin\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.pdb
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\obj\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\obj\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.AssemblyInfoInputs.cache
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\obj\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.AssemblyInfo.cs
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\obj\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\obj\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.sourcelink.json
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\obj\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.dll
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\obj\Debug\net8.0\refint\Lesson04-Exercise-Solutions-Arithmetic-Sequences.dll
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\obj\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.pdb
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\obj\Debug\net8.0\Lesson04-Exercise-Solutions-Arithmetic-Sequences.genruntimeconfig.cache
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson04-Exercise-Solutions-Arithmetic-Sequences\obj\Debug\net8.0\ref\Lesson04-Exercise-Solutions-Arithmetic-Sequences.dll

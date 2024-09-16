@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02-Data-Types-and-Ope
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson03-Input-and-Data-Type-Conversion", "Lesson03-Input-and-Data-Type-Conversion\Lesson03-Input-and-Data-Type-Conversion.csproj", "{CC34A3D9-3B63-4BD5-B114-D460E9FF110C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson04-Exercise-Solutions-Arithmetic-Sequences", "Lesson04-Exercise-Solutions-Arithmetic-Sequences\Lesson04-Exercise-Solutions-Arithmetic-Sequences.csproj", "{C8C8134A-4105-4CE3-9EEC-540D47976C01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{CC34A3D9-3B63-4BD5-B114-D460E9FF110C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC34A3D9-3B63-4BD5-B114-D460E9FF110C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC34A3D9-3B63-4BD5-B114-D460E9FF110C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C8134A-4105-4CE3-9EEC-540D47976C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C8134A-4105-4CE3-9EEC-540D47976C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C8134A-4105-4CE3-9EEC-540D47976C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C8134A-4105-4CE3-9EEC-540D47976C01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
