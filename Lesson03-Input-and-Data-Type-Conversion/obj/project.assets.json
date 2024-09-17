@@ -8,32 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cnobert\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/cnobert/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson03-Input-and-Data-Type-Conversion\\Lesson03-Input-and-Data-Type-Conversion.csproj",
+      "projectUniqueName": "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/Lesson03-Input-and-Data-Type-Conversion.csproj",
       "projectName": "Lesson03-Input-and-Data-Type-Conversion",
-      "projectPath": "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson03-Input-and-Data-Type-Conversion\\Lesson03-Input-and-Data-Type-Conversion.csproj",
-      "packagesPath": "C:\\Users\\cnobert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson03-Input-and-Data-Type-Conversion\\obj\\",
+      "projectPath": "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/Lesson03-Input-and-Data-Type-Conversion.csproj",
+      "packagesPath": "/Users/cnobert/.nuget/packages/",
+      "outputPath": "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson03-Input-and-Data-Type-Conversion/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\cnobert\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/cnobert/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
