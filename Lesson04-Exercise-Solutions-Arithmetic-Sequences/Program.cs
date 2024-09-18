@@ -37,7 +37,7 @@ const double CaloriesInServing = 175;
 const double CaloriesInBag = CaloriesInServing * ServingsInBag;
 const double CaloriesPerCookie = CaloriesInBag / CookiesInBag;
 
-Console.Write("How many cookies did you           eat?          No judgement. ");
+Console.Write("How many cookies did you eat? No judgement. ");
 double numCookiesEaten = double.Parse(Console.ReadLine());
 double caloriesConsumed = numCookiesEaten * CaloriesPerCookie;
 Console.WriteLine("You consumed " + caloriesConsumed);
