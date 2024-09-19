@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson04-Exercise-Solutions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05-Arithmetic-Exercises", "Lesson05-Arithmetic-Exercises\Lesson05-Arithmetic-Exercises.csproj", "{666D9969-FC96-4C63-BDB4-2D9C510517A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson06-Simple-Sequence-and-Arithmetic-Exercises", "Lesson06-Simple-Sequence-and-Arithmetic-Exercises\Lesson06-Simple-Sequence-and-Arithmetic-Exercises.csproj", "{3AC61532-2EE6-46B7-B842-EB010C5281FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{666D9969-FC96-4C63-BDB4-2D9C510517A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{666D9969-FC96-4C63-BDB4-2D9C510517A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{666D9969-FC96-4C63-BDB4-2D9C510517A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC61532-2EE6-46B7-B842-EB010C5281FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC61532-2EE6-46B7-B842-EB010C5281FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC61532-2EE6-46B7-B842-EB010C5281FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC61532-2EE6-46B7-B842-EB010C5281FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

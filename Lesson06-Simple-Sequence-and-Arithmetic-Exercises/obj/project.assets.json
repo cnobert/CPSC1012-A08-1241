@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson05-Arithmetic-Exercises/Lesson05-Arithmetic-Exercises.csproj",
-      "projectName": "Lesson05-Arithmetic-Exercises",
-      "projectPath": "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson05-Arithmetic-Exercises/Lesson05-Arithmetic-Exercises.csproj",
+      "projectUniqueName": "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson06-Simple-Sequence-and-Arithmetic-Exercises/Lesson06-Simple-Sequence-and-Arithmetic-Exercises.csproj",
+      "projectName": "Lesson06-Simple-Sequence-and-Arithmetic-Exercises",
+      "projectPath": "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson06-Simple-Sequence-and-Arithmetic-Exercises/Lesson06-Simple-Sequence-and-Arithmetic-Exercises.csproj",
       "packagesPath": "/Users/cnobert/.nuget/packages/",
-      "outputPath": "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson05-Arithmetic-Exercises/obj/",
+      "outputPath": "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson06-Simple-Sequence-and-Arithmetic-Exercises/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cnobert/.nuget/NuGet/NuGet.Config"
