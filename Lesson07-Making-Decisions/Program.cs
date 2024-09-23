@@ -92,4 +92,17 @@ else// if (theNumber == 0)
 
 #endregion
 
+#region notes on boolean operators
+/*
+    == equality operator (if both sides equal, returns true)
+    && "and" operator (if both sides true, returns true)
+    || "or" operator (if one side true, returns true))
+    ! "not" operator (returns the opposite of the value it operates on)
+    < "strictly less than" (if left side strictly less, returns true))
+    > "strictly greater than" (if left side stricty great than, returns true))
+    <= "less than or equal to" (if left side less than or equal to, returns true)
+    >= "great than or equal to" (if left side greater than or equal to, returns true))
+*/
+#endregion
+
 Console.WriteLine("<------------------>");
