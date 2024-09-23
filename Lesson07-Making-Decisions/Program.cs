@@ -48,26 +48,48 @@
 
 #region "if" statement with compound Boolean expressions
 
-bool hasMoney = true;
-bool isHungry = false;
+// bool hasMoney = true;
+// bool isHungry = false;
 
-if(hasMoney && isHungry)
+// if(hasMoney && isHungry)
+// {
+//     Console.WriteLine("I'm buying myself a burger!");
+// }
+// else if(hasMoney && !isHungry)
+// {
+//     Console.WriteLine("I guess I'll save my money, no need for a burger.");
+// }
+// else if(!hasMoney && isHungry) //if((hasMoney == false) && isHungry)
+// {
+//     Console.WriteLine("I'm hungry but I have no money.");
+//     Console.WriteLine("No burger for me.");
+// }
+// else if(!hasMoney && !isHungry)
+// {
+//     Console.WriteLine("No money, no big deal, since I'm not hungry.");
+// }
+#endregion
+
+#region Question 1 from  Decision Making Exercises 2 (https://lms.nait.ca/d2l/le/content/25527/viewContent/1173615/View)
+/*
+Write a program that will prompt for a number and display “positive” if it is greater than zero,
+“negative” if it is less than zero, and “zero” if it is equal to zero
+*/
+Console.Write("Enter a number:");
+int theNumber = int.Parse(Console.ReadLine());
+if(theNumber < 0)
 {
-    Console.WriteLine("I'm buying myself a burger!");
+    Console.WriteLine("negative");
 }
-else if(hasMoney && !isHungry)
+else if(theNumber > 0)
 {
-    Console.WriteLine("I guess I'll save my money, no need for a burger.");
+    Console.WriteLine("positive");
 }
-else if(!hasMoney && isHungry) //if((hasMoney == false) && isHungry)
+else// if (theNumber == 0)
 {
-    Console.WriteLine("I'm hungry but I have no money.");
-    Console.WriteLine("No burger for me.");
+    Console.WriteLine("zero");
 }
-else if(!hasMoney && !isHungry)
-{
-    Console.WriteLine("No money, no big deal, since I'm not hungry.");
-}
+
 #endregion
 
 Console.WriteLine("<------------------>");
