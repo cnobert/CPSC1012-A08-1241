@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson07-Making-Decisions",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson08-Decision-Exercises", "Lesson08-Decision-Exercises\Lesson08-Decision-Exercises.csproj", "{E204D9AE-13B6-4FE8-B210-7AABE58A08DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson09-Strings-And-Switch-Statement", "Lesson09-Strings-And-Switch-Statement\Lesson09-Strings-And-Switch-Statement.csproj", "{FAFE2C45-4BC8-4B51-93ED-78B8947BA9B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{E204D9AE-13B6-4FE8-B210-7AABE58A08DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E204D9AE-13B6-4FE8-B210-7AABE58A08DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E204D9AE-13B6-4FE8-B210-7AABE58A08DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFE2C45-4BC8-4B51-93ED-78B8947BA9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFE2C45-4BC8-4B51-93ED-78B8947BA9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFE2C45-4BC8-4B51-93ED-78B8947BA9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFE2C45-4BC8-4B51-93ED-78B8947BA9B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

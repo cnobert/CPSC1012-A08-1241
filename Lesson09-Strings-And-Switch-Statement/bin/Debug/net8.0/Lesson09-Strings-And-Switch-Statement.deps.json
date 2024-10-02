@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson09-Strings-And-Switch-Statement/1.0.0": {
+        "runtime": {
+          "Lesson09-Strings-And-Switch-Statement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson09-Strings-And-Switch-Statement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
