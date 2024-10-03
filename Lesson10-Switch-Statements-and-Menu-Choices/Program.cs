@@ -22,7 +22,7 @@ string grade = Console.ReadKey().KeyChar.ToString();
 Console.WriteLine();
 string output = "";
 switch(grade.ToUpper())
-{
+{ 
     case "A":
         output = "Congratulations!";
         break;
