@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lesson02-Data-Types-and-Operators
-build_property.ProjectDir = C:\Users\cnobert\Documents\GitHub\CPSC1012-A08-1241\Lesson02-Data-Types-and-Operators\
+build_property.ProjectDir = /Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson02-Data-Types-and-Operators/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

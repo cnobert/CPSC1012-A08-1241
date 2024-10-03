@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson05-Arithmetic-Exercises\\Lesson05-Arithmetic-Exercises.csproj": {}
+    "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson05-Arithmetic-Exercises/Lesson05-Arithmetic-Exercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson05-Arithmetic-Exercises\\Lesson05-Arithmetic-Exercises.csproj": {
+    "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson05-Arithmetic-Exercises/Lesson05-Arithmetic-Exercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson05-Arithmetic-Exercises\\Lesson05-Arithmetic-Exercises.csproj",
+        "projectUniqueName": "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson05-Arithmetic-Exercises/Lesson05-Arithmetic-Exercises.csproj",
         "projectName": "Lesson05-Arithmetic-Exercises",
-        "projectPath": "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson05-Arithmetic-Exercises\\Lesson05-Arithmetic-Exercises.csproj",
-        "packagesPath": "C:\\Users\\cnobert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cnobert\\Documents\\GitHub\\CPSC1012-A08-1241\\Lesson05-Arithmetic-Exercises\\obj\\",
+        "projectPath": "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson05-Arithmetic-Exercises/Lesson05-Arithmetic-Exercises.csproj",
+        "packagesPath": "/Users/cnobert/.nuget/packages/",
+        "outputPath": "/Users/cnobert/Documents/GitHub/CPSC1012-A08-1241/Lesson05-Arithmetic-Exercises/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\cnobert\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/cnobert/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

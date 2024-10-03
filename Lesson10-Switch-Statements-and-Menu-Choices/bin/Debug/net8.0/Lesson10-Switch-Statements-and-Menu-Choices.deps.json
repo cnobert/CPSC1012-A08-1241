@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson10-Switch-Statements-and-Menu-Choices/1.0.0": {
+        "runtime": {
+          "Lesson10-Switch-Statements-and-Menu-Choices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson10-Switch-Statements-and-Menu-Choices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson02-Data-Types-and-Operators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e2a9c9e553c94444222f1ddaa4d75314b966bd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5348141fdc15af47c098963177a3228b73e22ef0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson02-Data-Types-and-Operators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson02-Data-Types-and-Operators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
