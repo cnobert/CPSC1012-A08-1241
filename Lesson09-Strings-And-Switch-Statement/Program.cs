@@ -55,7 +55,7 @@ string hockeyName = "Connor McDavid";
 string firstName = hockeyName.Substring(0, hockeyName.IndexOf(' '));
 string lastName = hockeyName.Substring(hockeyName.IndexOf(" ") + 1);
 Console.WriteLine($"First Name: {firstName}\nLast Name: {lastName}");
-
+  
 
 
 #endregion
