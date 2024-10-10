@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson13-Exception-Handling-Intro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8312c7930117cff1a8687ef644dd408c4423648")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f9e1e7cd2d7c129fd75a52d8d59e9cccc71c939")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson13-Exception-Handling-Intro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson13-Exception-Handling-Intro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

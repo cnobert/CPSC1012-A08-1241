@@ -25,10 +25,38 @@ Console.WriteLine();
         -ArrayIndexOutOfBounds Exception
         --example string name = "abc"; Console.Write(name[16]);
 */
+//when there is a dangerous piece of code (one that may throw an exception), we will put that 
+//code into a try/catch block
+// try
+// {
+//     Console.Write("Enter a number: ");
+//     int num01 = int.Parse(Console.ReadLine());
+//     Console.WriteLine($"You successfully entered the number {num01}.");
+// }
+// catch(Exception theException)
+// {
+//     Console.WriteLine("There was an exception, here is the message:");
+//     Console.WriteLine(theException.Message);
+// }
 
-Console.Write("Enter a number: ");
-int num01 = int.Parse(Console.ReadLine());
-Console.WriteLine($"You successfully entered the number {num01}.");
+int userAge = 0;
+bool validInput = false;
+
+do
+{
+    Console.Write("How old are you? Please enter a whole number: ");
+    try
+    {
+        userAge = int.Parse(Console.ReadLine());
+        validInput = true; //this line of code is never reached if an exception was thrown the line before
+    }
+    catch(Exception e)
+    {
+        Console.WriteLine(e.Message);
+        Console.WriteLine("Please try again.");
+    }
+} while(validInput == false); //while (!validInput)
+
 
 #endregion
 
