@@ -3,6 +3,35 @@ Console.WriteLine();
 Console.WriteLine();
 #endregion
 
+#region notes from October 10, 2024
+/*
+•	Quiz  - on Wednesday, October 16
+o	    Pre-condition loop vs post-condition loop
+o	    Pre-test condition loop vs post-test condition loop
+•	Relational operators and Boolean conditions
+o	    <, >, <=, >=, ==, !=
+o	    Boolean operators return true or false
+o	    &&, ||, !
+o	    Order of operations
+        	Logical expressions are evaluated from left to right, unless the order of operations is modified by parentheses.
+        	1. *, /, %, + -
+        	2. <, >, <=, >=, ==, != Relational operators are evaluated first, then Boolean operators
+        	3. “!” is first, then “&&” then “||”
+o	    Examples of Boolean expressions (these would be found in parentheses in “if” statements and loops
+    	10 < 10  false
+    	!(10 < 10)  true
+    	15 > 5 && 7 == 7  true && true  true
+    	!(20 >= 20)  !(true)  false
+    	12 != 12 || 9 <= 10  false || true -> true
+    	25 % 5 == 0 && 30 / 6 == 5  0 == 0 && 5 == 5  true && true  true
+    	!(18 == 18) && 10 < 20  !(true) && true  false && true  false
+    	7 + 3 == 10 || 5 * 5 == 26  10 == 10 || 25 == 26  true || false  true
+•	Exception handling
+•	I will also assign a Saturday Morning Coding™ exercise
+
+*/
+
+#endregion
 #region exceptions and erros
 
 /*
