@@ -9,26 +9,26 @@ Console.WriteLine();
 // {
 //     Console.Write($"{count++} ");
 // }
-// Console.WriteLine();
-// char answerYN = 'n';
-// string city;
-// do
-// {
-//     Console.Write("What city do you live in? ");
-//     city = Console.ReadLine();
-//     //this could be a calculation or more questions for the user
-//     if(city == "Edmonton" || city.Equals("Winnipeg"))
-//     {
-//         Console.WriteLine("Enjoy the winter!");
-//     }
-//     else
-//     {
-//         Console.WriteLine("Sounds warm.");
-//     }
-//     Console.Write("Would you like to continue? ");
-//     answerYN = char.ToLower(Console.ReadKey().KeyChar);
-//     Console.WriteLine();
-// }while(answerYN != 'n');
+Console.WriteLine();
+char answerYN = 'n';
+string city;
+do
+{
+    Console.Write("What city do you live in? ");
+    city = Console.ReadLine();
+    //this could be a calculation or more questions for the user
+    if(city == "Edmonton" || city.Equals("Winnipeg"))
+    {
+        Console.WriteLine("Enjoy the winter!");
+    }
+    else
+    {
+        Console.WriteLine("Sounds warm.");
+    }
+    Console.Write("Would you like to continue? ");
+    answerYN = char.ToLower(Console.ReadKey().KeyChar);
+    Console.WriteLine();
+}while(answerYN != 'n');
 
 #endregion
 
