@@ -49,6 +49,7 @@ double biggestMark = 0;
 // }
 Array.Sort(marks);
 if(marks.Length > 1)
+{
     biggestMark = marks[marks.Length - 1];
 }
 Console.WriteLine($"The biggest mark is {biggestMark}.");
