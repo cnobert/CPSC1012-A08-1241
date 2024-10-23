@@ -57,3 +57,14 @@ for(int c = 0; c < studentNames.Length; c++)
 {
     Console.WriteLine($"{c + 1}. {studentNames[c]} got {mathGrades[c]} in math.");
 }
+
+Console.Write($"Which student's info would you like to view?"
+                + $"Enter a number between 1 and {studentNames.Length}: ");
+int studentIndex = int.Parse(Console.ReadLine());
+//decrement to convert from human-readable index to zero-based index
+studentIndex--;
+if(studentIndex >= 0 && studentIndex < studentNames.Length)
+{
+    Console.WriteLine($"{studentIndex + 1}. {studentNames[studentIndex]} "
+                        + $"got {mathGrades[studentIndex]} in math.");
+}
