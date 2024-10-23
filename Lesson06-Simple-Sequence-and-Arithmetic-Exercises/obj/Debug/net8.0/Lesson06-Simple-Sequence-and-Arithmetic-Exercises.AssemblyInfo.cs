@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson06-Simple-Sequence-and-Arithmetic-Exercises")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a2c250627db08023f4e87d5aab041d819eb7d4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d082a10d7b067bc6089324dc62fd35c204fe722")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson06-Simple-Sequence-and-Arithmetic-Exercises")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson06-Simple-Sequence-and-Arithmetic-Exercises")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
