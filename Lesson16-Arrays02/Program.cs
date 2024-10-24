@@ -36,7 +36,9 @@ do
         }
     }
     while(!inputIsValid);
-
+    
+    //they've just entered another student, so keep track of that
+    studentCounter++;
     do
     {
         Console.WriteLine("Would you like to continue? [y/n]");
@@ -44,7 +46,7 @@ do
     } while(continueYN != 'n' && continueYN != 'y');
     if(continueYN == 'y')
     {
-        studentCounter++;
+        
         if(studentCounter >= studentNames.Length)
         {
             continueYN = 'n';
@@ -53,10 +55,12 @@ do
     }
 } while(continueYN != 'n');
 
-for(int c = 0; c < studentNames.Length; c++)
+Console.WriteLine();
+for(int c = 0; c < studentCounter; c++)
 {
     Console.WriteLine($"{c + 1}. {studentNames[c]} got {mathGrades[c]} in math.");
 }
+Console.WriteLine();
 
 Console.Write($"Which student's info would you like to view?"
                 + $"Enter a number between 1 and {studentNames.Length}: ");

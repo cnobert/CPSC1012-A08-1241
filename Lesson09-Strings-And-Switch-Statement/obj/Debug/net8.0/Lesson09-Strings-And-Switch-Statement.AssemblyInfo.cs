@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson09-Strings-And-Switch-Statement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d082a10d7b067bc6089324dc62fd35c204fe722")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d59af97e2314de22aed5023fb1cd4e476bd70edd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson09-Strings-And-Switch-Statement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson09-Strings-And-Switch-Statement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
