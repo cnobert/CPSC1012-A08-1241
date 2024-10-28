@@ -1,12 +1,12 @@
 ﻿Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
 
 #region basics of a C# method
-// double firstNum = 40, secondNum = 50;
-// double theSum = firstNum + secondNum;
-// Console.WriteLine($"The answer is {theSum}.");
+double firstNum = 40, secondNum = 50;
+double theSum = firstNum + secondNum;
+Console.WriteLine($"The answer is {theSum}.");
 
-// Console.WriteLine($"The sum of adding {40.2} and {50.8} is: {AddTogetherDoubles(40.2, 50.8)}.");
-// Console.WriteLine($"The product of multiplying {40.2} and {50.8} is: {MultiplyTogetherDoubles(40.2, 50.8)}.");
+Console.WriteLine($"The sum of adding {40.2} and {50.8} is: {AddTogetherDoubles(40.2, 50.8)}.");
+Console.WriteLine($"The product of multiplying {40.2} and {50.8} is: {MultiplyTogetherDoubles(40.2, 50.8)}.");
 
 
 //adds together two doubles and returns their sum
