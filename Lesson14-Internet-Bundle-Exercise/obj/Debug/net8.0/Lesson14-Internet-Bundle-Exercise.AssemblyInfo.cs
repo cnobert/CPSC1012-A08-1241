@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson14-Internet-Bundle-Exercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0083f34a67cc469cc4e2bd8463cfb60adea33545")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30358bcfcb0e3545a25a785ab90956282b3cda1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson14-Internet-Bundle-Exercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson14-Internet-Bundle-Exercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
