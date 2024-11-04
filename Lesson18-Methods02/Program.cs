@@ -32,28 +32,29 @@ class Program
 
         #endregion
     }
-    static int GetIntAboveZero()
-    {
-        return (int) GetDoubleAboveZero();
-    }
-    static double GetTicketPrice(double age)
+    static double GetTicketPrice(double theAge)
     {
         //do the logic for getting a ticket price
         double price = 10;;
-        if(age <= 6)
+        if(theAge <= 6)
         {
             price = 0;
         }
-        else if(age < 18)
+        else if(theAge < 18)
         {
             price = 9.80;
         }
-        else if(age < 55)
+        else if(theAge < 55)
         {
             price = 11.35;
         }
         return price;
     }
+    static int GetIntAboveZero()
+    {
+        return (int) GetDoubleAboveZero();
+    }
+    
     static double GetDoubleAboveZero()
     {
         double investment = -1;
