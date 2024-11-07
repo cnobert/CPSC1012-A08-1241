@@ -31,6 +31,10 @@
             favouriteNumbers[c] = random.Next(1, 500); 
         }
 
+        for (int c = 0; c < logicalSize; c++)
+        {
+            Console.WriteLine($"{names[c]} has favourite number {favouriteNumbers[c]}.");
+        }
 
 
         #endregion
