@@ -1,18 +1,20 @@
-﻿class Program
+﻿using System.Globalization;
+
+class Program
 {
     static void Main(string[] args)
     {
         #region simple nested loop
 
-        for(int outer = 1; outer <= 10; outer++)
-        {
-            Console.Write($"Row #{outer}. ");
-            for(int inner = 1; inner <= 10; inner++)
-            {
-                Console.Write($"{inner} ");
-            }
-            Console.WriteLine();
-        }
+        // for(int outer = 1; outer <= 10; outer++)
+        // {
+        //     Console.Write($"Row #{outer}. ");
+        //     for(int inner = 1; inner <= 10; inner++)
+        //     {
+        //         Console.Write($"{inner} ");
+        //     }
+        //     Console.WriteLine();
+        // }
 
         #endregion
     
@@ -36,6 +38,46 @@
             Console.WriteLine($"{names[c]} has favourite number {favouriteNumbers[c]}.");
         }
 
+        //algorithm to find the max number in this array
+        int maxFavouriteNumber = favouriteNumbers[0];
+        for(int c = 0; c < logicalSize; c++)
+        {
+            if(favouriteNumbers[c] > maxFavouriteNumber)
+            {
+                maxFavouriteNumber = favouriteNumbers[c];
+            }
+        }
+        Console.WriteLine($"The max number in the favouriteNumbers array is {maxFavouriteNumber}");
+
+        //find the nearest "10" above the max number
+        int closest10AboveMaxFavouriteNumber = (int)Math.Ceiling(maxFavouriteNumber / 10.0) * 10;
+        Console.WriteLine($"The max number, rounded to the nearest 10, is {closest10AboveMaxFavouriteNumber}");
+
+        //output the chart
+        for(int outer = closest10AboveMaxFavouriteNumber; outer >= 0; outer -= 10)
+        {
+            //outer loop controls the rows
+            Console.Write(outer + "|\t");
+            //inner loop will go here and check if there are numbers that belong in this row
+            for(int inner = 0; inner < logicalSize; inner++)
+            {
+                int num = favouriteNumbers[inner];
+                if(num > outer - 10 && num <= outer)
+                {
+                    Console.Write(num);
+                }
+                else
+                {
+                    Console.Write("\t");
+                }
+            }
+            Console.WriteLine();
+        }
+        Console.Write("\n\t");
+        for(int c = 0; c < logicalSize; c++)
+        {
+            Console.Write(names[c] + "\t");
+        }
 
         #endregion
     }

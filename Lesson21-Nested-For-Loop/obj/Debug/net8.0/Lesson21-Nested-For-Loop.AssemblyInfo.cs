@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson21-Nested-For-Loop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50730e512e5afdaae2cbec3a353c1c1d149046c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f67d0f62e9d3eb18f975dc2dc24887e5de27b8bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson21-Nested-For-Loop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson21-Nested-For-Loop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
