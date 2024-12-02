@@ -69,6 +69,28 @@ class Student
         }
     }
 
+    //this read-only property will return the "rank" of the student
+    public string StudentRanking
+    {
+        get
+        {
+            string ranking = "Failing";
+            if(Average >= 90)
+            {
+                ranking = "Honours with distinction";
+            }
+            else if (Average >= 80)
+            {
+                ranking = "Honours";
+            }
+            else if(Average >= 50)
+            {
+                ranking = "Passing";
+            }
+            return ranking;
+        }
+    }
+
     #endregion
 
     #region methods

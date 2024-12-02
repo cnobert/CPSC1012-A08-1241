@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson10-Switch-Statements-and-Menu-Choices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45292b87fb85f1a9d307a3feff9f6a226e84468f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e8ad964e819412ad823c93047489c11a36e8500")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson10-Switch-Statements-and-Menu-Choices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson10-Switch-Statements-and-Menu-Choices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

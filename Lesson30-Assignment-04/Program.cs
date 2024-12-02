@@ -72,6 +72,23 @@ class Customer
     
     //TODO: write the AverageOrder property -it's read only, it returns the average order
     //and it does not blow up if there are zero orders
+
+    public double AverageOrder
+    {
+        get
+        {
+            double theAverage = 0;
+            if(OrderCount == 0)
+            {
+                ;
+            }
+            else
+            {
+                //here the actually compute the average
+            }
+            return theAverage;
+        }
+    }
     #endregion
 
     #region methods
