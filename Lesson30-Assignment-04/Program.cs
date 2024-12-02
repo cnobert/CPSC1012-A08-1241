@@ -5,8 +5,66 @@ class Program
     {
         Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
         
+        string fName = PromptString("Please enter your first name: ");
+        string lName = PromptString("Please enter your last name: ");
+        int numOrders = PromptInt("Please enter # of orders: ");
+        double sales = PromptDouble("Please enter the total value of orders, in $: ");
+
+        Customer c01 = new Customer(fName, lName, numOrders, sales);
         
     }
+
+    #region prompt methods
+    static string PromptString(string prompt)
+    {
+        Console.Write(prompt);
+        return Console.ReadLine();
+    }
+    static int PromptInt(string prompt)
+    {
+        int theInt = 0;
+        bool validInt = false;
+        do
+        {
+            try
+            {
+                Console.Write(prompt);
+                theInt = int.Parse(Console.ReadLine());
+                validInt = true;
+            }
+            catch
+            {
+                Console.Write("Please enter a whole number. Try again: ");
+            }
+        }
+        while (!validInt);
+
+        return theInt;
+    }
+    
+    static double PromptDouble(string prompt)
+    {
+        double theDouble = 0;
+        bool validDouble = false;
+        do
+        {
+            try
+            {
+                Console.Write(prompt);
+                theDouble = double.Parse(Console.ReadLine());
+                validDouble = true;
+            }
+            catch
+            {
+                Console.Write("Please enter a valid number. Try again: ");
+            }
+        }
+        while (!validDouble);
+        
+        return theDouble;
+    }
+    #endregion
+
 }
 class Customer
 {
@@ -89,6 +147,16 @@ class Customer
             return theAverage;
         }
     }
+    
+    public string FullName
+    {
+        get
+        {
+            //return as a string the customer's full name in the format LastName,FirstName.
+            return "placeholder";
+        }
+    }
+    
     #endregion
 
     #region methods
