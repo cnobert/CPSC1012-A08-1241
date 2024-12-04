@@ -3,17 +3,72 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
-        
-        string fName = PromptString("Please enter your first name: ");
-        string lName = PromptString("Please enter your last name: ");
-        int numOrders = PromptInt("Please enter # of orders: ");
-        double sales = PromptDouble("Please enter the total value of orders, in $: ");
+        bool displayMenu = true;
+        string mainMenuChoice = "";
+        List<Customer> customers = new List<Customer>();
 
-        Customer c01 = new Customer(fName, lName, numOrders, sales);
-        
+        //todo: call the "LoadCustomersFromFile()" method
+        DisplayIntro();
+
+        do
+        {
+            DisplayMainMenu();
+            mainMenuChoice = PromptString("Enter MAIN MENU option: ").ToUpper();
+            switch(mainMenuChoice)
+            {
+                case "D":
+                    break;
+                case "S":
+                    break;
+                case "A":
+                    AddNewCustomer(customers);
+                    break;
+                case "E":
+                    break;
+                case "R":
+                    break;
+                case "V":
+                    break;
+                case "Q":
+                    break;
+                default:
+                    break;
+
+            }
+        }while(displayMenu);
     }
 
+    static void DisplayIntro()
+    {
+        Console.WriteLine(
+            "\n\n\n\n\n\n\n\n\n\nAssignment 04 " + 
+            "Written by Conrad Nobert - Fall 2024\n"
+        );
+    }
+
+    static void DisplayMainMenu()
+    {
+        //todo: print the main menu to the console
+        Console.WriteLine(
+            "[D]isplay Customers\n" + 
+            "[S]earch Customers\n" + 
+            "[A]dd New Customer\n" + 
+            "[E]dit Customer\n" + 
+            "[R]emove Customer\n" + 
+            "[V]iew Customer Details\n" + 
+            "[Q]uit\n"
+        );
+    }
+
+    //todo: declare AddNewCustomer
+    //prompt the user for customer data
+    //create a customer with that data
+    //add the customer to the list
+    static void AddNewCustomer(List<Customer> customers)
+    {
+        //if this was coded, it would be pretty sweet.
+    }
+    
     #region prompt methods
     static string PromptString(string prompt)
     {

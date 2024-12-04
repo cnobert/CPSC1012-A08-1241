@@ -4,7 +4,32 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
-        //code goes here
+        List<Student> students;
+        students = new List<Student>();
+        Student s01 = new Student("Ayla Smith", 81, 61);
+        students.Add(s01);
+        students[0].Print();
+        s01.MathMark = 0;
+        students[0].Print();
+        students.Add(new Student("Bill Bob", 99, 70));
+        students.Add(new Student("Brinda Kaur", 67, 77));
+        Console.WriteLine("---------");
+        foreach(Student s in students)
+        {
+            s.Print();
+        }
+        students.Remove(s01);
+        Console.WriteLine("-----");
+        foreach(Student s in students)
+        {
+            s.Print();
+        }
+        students.Remove(students[0]);
+        Console.WriteLine("-----");
+        foreach(Student s in students)
+        {
+            s.Print();
+        }
     }
 }
 class Student 
