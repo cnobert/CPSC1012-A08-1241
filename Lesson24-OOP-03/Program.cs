@@ -19,6 +19,7 @@ class Program
             s.Print();
         }
         students.Remove(s01);
+        students.RemoveAt(3);
         Console.WriteLine("-----");
         foreach(Student s in students)
         {
